@@ -1,7 +1,8 @@
 import "./App.css";
 import Crousel from "./component/Crousel";
-import Feedback from "./component/Feedback";
+import Footer from "./component/Footer";
 import Navbar from "./component/Navbar";
+import Testominal from "./component/Testominal";
 import Touch from "./component/Touch";
 
 function App() {
@@ -12,7 +13,8 @@ function App() {
       <Navbar></Navbar>
       <Crousel></Crousel>
       <Touch></Touch>
-      <Feedback></Feedback>
+      <Testominal></Testominal>
+      <Footer></Footer>
     </div>
   );
 }
