@@ -1,6 +1,8 @@
 import "./App.css";
 import Crousel from "./component/Crousel";
+import Feedback from "./component/Feedback";
 import Navbar from "./component/Navbar";
+import Touch from "./component/Touch";
 
 function App() {
 
@@ -9,6 +11,8 @@ function App() {
 
       <Navbar></Navbar>
       <Crousel></Crousel>
+      <Touch></Touch>
+      <Feedback></Feedback>
     </div>
   );
 }

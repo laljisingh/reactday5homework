@@ -1,7 +1,7 @@
 function Crousel() {
   return (
     <div>
-      <section class="relative bg-cover bg-center bg-no-repeat" style={{backgroundImage: 'url("https://www.wbcsd.org/var/site/storage/images/overview/news-insights/wbcsd-insights/accelerating-business-along-the-road-to-a-nature-positive-future/225091-1-eng-GB/Accelerating-business-along-the-road-to-a-nature-positive-future_i1140.jpg")'}}>
+      <section class="relative bg-cover bg-center  bg-no-repeat" style={{backgroundImage: 'url("https://edc.h-cdn.co/assets/16/28/2560x1440/hd-aspect-1468508286-ce-la-vi-restaurant-indoor.jpg")'}}>
         <div class="absolute inset-0 bg-white/75 sm:bg-transparent sm:from-white/95 sm:to-white/25 ltr:sm:bg-gradient-to-r rtl:sm:bg-gradient-to-l"></div>
         <div class="relative mx-auto max-w-screen-xl px-4 py-32 sm:px-6 lg:flex lg:h-screen lg:items-center lg:px-8">
           <div class="max-w-xl text-center ltr:sm:text-left rtl:sm:text-right">
@@ -11,7 +11,7 @@ function Crousel() {
                 Forever Food.
               </strong>
             </h1>
-            <p class="mt-4 max-w-lg sm:text-xl/relaxed">
+            <p class="mt-4 max-w-lg sm:text-xl/relaxed text-white bg-gray-900">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt
               illo tenetur fuga ducimus numquam ea!
             </p>
